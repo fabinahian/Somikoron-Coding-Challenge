@@ -19,7 +19,7 @@ The problem involved analyzing the profit of eight divisions of XYZ Company over
 ### Description:
 This problem focused on creating a Bag of Words from a Bangla paragraph.
 
-## Problem 3: Web Scraping for Book Information
+## Problem 3: Web Scraping a Bangla Online Library
 
 ### Description:
 The task involved scraping book names, writers, book texts, and genres from a series of web pages.
