@@ -14,7 +14,7 @@ The problem involved analyzing the profit of eight divisions of XYZ Company over
 4. Made a DataFrame from the dictionary and set the index as Year1, Year2, Year3.
 5. Visualized the DataFrame using a horizontal bar plot.
 
-## Problem 2: Bag of Words Generation (NLP)
+## Problem 2: Basic NLP - Bangla
 
 ### Description:
 This problem focused on creating a Bag of Words from a Bangla paragraph.
