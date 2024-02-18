@@ -2,7 +2,7 @@
 
 Welcome to my repository containing solutions to the coding challenges I completed as part of an at-home assessment for a data science internship position. Below are the details of the problems solved:
 
-## Problem 1: Eight Divisions Profit Analysis
+## Problem 1: Basic Data Structure
 
 ### Description:
 The problem involved analyzing the profit of eight divisions of XYZ Company over three years.
